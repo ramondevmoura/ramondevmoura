@@ -4,7 +4,7 @@
 **I am a full-stack and entrepreneur** 
 
 <sub>
-I'm a self-taught person passionate about learning, I've been working as a full stack developer for 2 years, I started my journey as a programmer in order to test my ideas, at that time I couldn't afford to pay a professional, so I decided to learn to program.
+I'm a self-taught person passionate about learning, I've been working as a full stack developer for 4 years, I started my journey as a programmer in order to test my ideas, at that time I couldn't afford to pay a professional, so I decided to learn to program.
 After a lot of practice and study, I started to develop my own applications and systems, from the backend to the frontend.
 In addition to testing my ideas, I also help entrepreneurs put two ideas on the battlefield.
 </sub>
